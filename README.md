@@ -6,6 +6,7 @@ Driven by a deep passion for technology, my academic journey and hands-on projec
 * 📚 Full Stack Software Development
 * 🔒 Cybersecurity
 * ⚡ Embedded Systems
+* 🎮 Unity AR Development
 
 While my proficiency across these domains continues to mature every day, I treat every personal and educational project as an opportunity to sharpen my skills. Though much of my work remains private, I am fueled by a constant curiosity to explore, adapt, and master new corners of the tech world.
 
