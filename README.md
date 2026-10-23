@@ -26,5 +26,5 @@ This is a small-scale project that I developed to sort files into organized dire
 
 ## Contact Me
 
-* dyllbiz@gmail.com
-* [LinkedIn Messaging](https://www.linkedin.com/in/dylan-seibel-395a0424a)
+* 📧 dyllbiz@gmail.com
+* 🔗 [LinkedIn Messaging](https://www.linkedin.com/in/dylan-seibel-395a0424a)
