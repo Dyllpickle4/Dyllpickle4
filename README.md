@@ -13,7 +13,7 @@ While my proficiency across these domains continues to mature every day, I treat
 
 ### 🌱 [Identiflora](https://github.com/Identiflora)
 
-My univeristy senior project that uses a machine learning AI model to identify plants and allow users to guess plants the plant that has been identified on a mobile device. It required coding in Dart using Flutter libraries, Python using FastAPI, and MySQL.
+My univeristy senior project that uses a machine learning AI model to identify plants and allows users to guess the plant that has been identified, on a mobile device. It required developing in Dart using Flutter libraries, Python using FastAPI, and MySQL.
 
 * 📱 [Mobile App Repo](https://github.com/Identiflora/flutter-app) (Dart)
 * 🌐 [API Repo](https://github.com/Identiflora/identiflora-api) (Python)
